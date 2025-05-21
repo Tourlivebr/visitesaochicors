@@ -14,8 +14,8 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "TourLive",
-  description: "Turismo Interativo",
+  title: "São Chico RS",
+  description: "Mapa interativo com guia falante",
 };
 
 export default function RootLayout({
