@@ -7,5 +7,5 @@ export default function Home() {
     window.location.href = "/cartao/index-sc"; // Muda para o slug desejado
   }, []);
 
-  return <p>Carregando...</p>;
+  return <p>Buscando as melhores atrações para você...</p>;
 }
