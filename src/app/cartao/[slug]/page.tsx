@@ -25,7 +25,7 @@ export default function CartaoPDF() {
 
   // Enquanto estiver no celular, mostra essa mensagem (rápida antes do redirecionamento)
   if (isMobile) {
-    return <p>Redirecionando para visualização do PDF...</p>;
+    return <p>Buscando as melhores atrações para você...</p>;
   }
 
   // No desktop, exibe o PDF embutido em tela cheia via iframe
